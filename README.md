@@ -1,1 +1,3 @@
 # A-Simple-Game-of-Random-Survival
+the loop displays the number of lives (“?”) of the player, meaning the probability of losing a life, waiting for the same input to kind of trigger the roulette scroll and confirm the awareness of the chances. After the first check, either a 1 or a 0 is rolled out with initial odds of 50 to 50. When a 1 is rolled, another life ("?") is given out and a 0 in roulette. If you roll a 0, a life is taken away and a 0 in roulette. in a negative outcome of the first check (input), one life is taken away ("?"). the loop stops at the end of lives ("?"), closing the program.
+![схема игры](https://github.com/user-attachments/assets/54305da5-6295-437c-9cf3-153c564ea918)
